@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+   }
+
+   #btnSignUp{
+       border: 2px solid black;
+       cursor: pointer;
+       background-color: burlywood;
+       border-radius: 8px;
+       
+       
+   }
+   #btnSignUp:hover{
+       background-color: cornflowerblue;
+       border-radius: 0px;
+       transition: 2s;
+   }
+   #divSignUp{
+           margin: 150px;
+           padding: 150px;
+           background-image: url('image/1.jpg');
+           background-color: rgb(244, 254, 254);
+           box-shadow: 5px 5px 5px 5px #888888;
+   }
+
+
+   #txtUser{
+        border: 2px solid black;
+        background-color: rgb(221, 252, 252);
+   }
